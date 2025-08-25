@@ -1,2 +1,2 @@
 # Quiz
-this is a team job and we work on requested question and answers of six subjects (maths, English, pysics, chemistry, biology, aptitude )from a variety of academics
+this is a team job and we work on requested questions and answers in six subjects (maths, English, physics, chemistry, biology, aptitude )from a various of academic filed
